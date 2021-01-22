@@ -1,5 +1,7 @@
 # Liver-Disease-Prediction
-Using Machine learning Algorithm
+A web application to predict whether an individual is suffering from liver disease or not. Random forest algorithm was used for this purpose.
+Python 3, Spyder3.3, Flask 1.1, HTML5, CSS3, 
+Libraries used- Numpy, pandas, pickle,matplotlib
 
 Application is built using Flask python framework
 
